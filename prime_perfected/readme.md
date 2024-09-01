@@ -1,8 +1,12 @@
 # prime_perfected
 
+![prime_perfected](imgur.com image replace me!)
+
+*A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Boggle](https://github.com/Zbolt50)
-* Hardware Supported: RP2040 Zero (Waveshare), Choc Switches, Status OLEDS (WIP)
+* Hardware Supported: RP2040 Zero (Waveshare), Choc Switches
+* Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
