@@ -7,10 +7,8 @@
 //#define SERIAL_PIO_USE_PIO1  //Force the usage of PIO1 peripheral, by default the Serial implementation uses the PIO0 peripheral
 
 #define I2C_DRIVER I2CD0
-#define I2C0_SCL_PIN GP13
-#define I2C0_SDA_PIN GP12
-
-#define OLED_DISPLAY_ADDRESS 0x3c
+#define I2C1_SCL_PIN GP13
+#define I2C1_SDA_PIN GP12
 
 
 #define SPLIT_LAYER_STATE_ENABLE
