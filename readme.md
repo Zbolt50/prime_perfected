@@ -2,7 +2,7 @@
 
 ![prime_perfected](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+consume. enhance. replicate.
 
 * Keyboard Maintainer: [Boggle](https://github.com/Zbolt50)
 * Hardware Supported: RP2040 Zero (Waveshare), Choc Switches
